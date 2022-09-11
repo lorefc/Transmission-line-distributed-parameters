@@ -1,4 +1,4 @@
-# transmission-line-parameters
+# TLine-distributed-parameters
 
 A Matlab script that performs the distributed parameters model of a 3-phase transmission line for a whole set of conductors.
 
