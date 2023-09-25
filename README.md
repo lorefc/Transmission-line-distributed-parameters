@@ -32,27 +32,25 @@ Cost tendency of 500MW scenarios, according to voltage and number of conductors 
 > [!NOTE]
 > The most viable scenario is in the blue zone.
 
-![Cost tendency 500MW scenarios according to voltage and number of conductors per phase](https://github.com/lorefc/Transmission-line-distributed-parameters/assets/108432416/88c04d97-80f6-4ae3-95f5-20fe8db018d3)
-
+![Tendência de custo de acordo com nível de tensão e número de condutores por fase](https://github.com/lorefc/Transmission-line-distributed-parameters/assets/108432416/bb2c281d-3d71-4fe8-8d50-bb2522a10ccf)
 
 Cost tendency of all possible scenarios:
 > [!NOTE]
 > This is the relationship between power, voltage and cost of a scenario.
 
-![Cost tendency of all possible scenarios](https://github.com/lorefc/Transmission-line-distributed-parameters/assets/108432416/0978e400-a823-4da6-8b6d-27bdee4fecea)
-
+![Tendência aproximada do custo total conforme nível de tensão e potência](https://github.com/lorefc/Transmission-line-distributed-parameters/assets/108432416/79231fe0-0e98-4646-b92b-b560868cd160)
 
 Cost profile of 500MW scenarios, composed by cable, tower and losses costs:
 > [!NOTE]
 > How much each cost component contributes to total cost in relation to the price of that scenario. Expensive scenarios have an ilogical combination of voltage and cable diameter, as per electrical theory.
 
-![Cost profile of 500MW scenarios composed by cable tower and losses costs](https://github.com/lorefc/Transmission-line-distributed-parameters/assets/108432416/af16a068-315f-4c69-9b52-36d09d646817)
+![Perfil de custos composto (500MW)](https://github.com/lorefc/Transmission-line-distributed-parameters/assets/108432416/1fd8921c-d937-4ec0-bb54-d56def8e713f)
 
 Cable ampacity versus current levels of a given scenario:
 > [!NOTE]
 > All viable scenarios obviously have cables that can handle the current levels of the transmission line. This graph proves it.
  
-![ampacity](https://github.com/lorefc/Transmission-line-distributed-parameters/assets/108432416/6469623a-52d5-42c0-a25b-c338d2d8d4a3)
+![amperagem](https://github.com/lorefc/Transmission-line-distributed-parameters/assets/108432416/ff98f07c-0aff-474f-b9a1-c6e1090675b6)
 
 > [!NOTE]
 > Prices are arbitrary and given in an imaginary monetary unit. A value is assigned to energy losses and construction costs, which vary according to voltage levels and type/number of conductors.
