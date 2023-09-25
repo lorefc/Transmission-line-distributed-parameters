@@ -56,8 +56,3 @@ Cable ampacity versus current levels of a given scenario:
 
 > [!NOTE]
 > Prices are arbitrary and given in an imaginary monetary unit. A value is assigned to energy losses and construction costs, which vary according to voltage levels and type/number of conductors.
-
-
-
-
---
