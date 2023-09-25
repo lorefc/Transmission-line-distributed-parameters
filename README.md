@@ -45,13 +45,14 @@ Cost tendency of all possible scenarios:
 Cost profile of 500MW scenarios, composed by cable, tower and losses costs:
 > [!NOTE]
 > How much each cost component contributes to total cost in relation to the price of that scenario. Expensive scenarios have an ilogical combination of voltage and cable diameter, as per electrical theory.
+
 ![Cost profile of 500MW scenarios composed by cable tower and losses costs](https://github.com/lorefc/Transmission-line-distributed-parameters/assets/108432416/af16a068-315f-4c69-9b52-36d09d646817)
 
 Cable ampacity versus current levels of a given scenario:
 > [!NOTE]
 > All viable scenarios obviously have cables that can handle the current levels of the transmission line. This graph proves it.
+ 
 ![ampacity](https://github.com/lorefc/Transmission-line-distributed-parameters/assets/108432416/6469623a-52d5-42c0-a25b-c338d2d8d4a3)
-
 
 > [!NOTE]
 > Prices are arbitrary and given in an imaginary monetary unit. A value is assigned to energy losses and construction costs, which vary according to voltage levels and type/number of conductors.
