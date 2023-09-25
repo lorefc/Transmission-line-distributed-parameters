@@ -29,15 +29,13 @@ By analyzing the results we can find the most viable scenarios for a given trans
 
 Cost tendency of 500MW scenarios, according to voltage and number of conductors per phase:
 
-> [!NOTE]
-> > The most viable scenario is in the blue zone.
+> [!NOTE] > The most viable scenario is in the blue zone.
 
 ![Cost tendency 500MW scenarios according to voltage and number of conductors per phase](https://github.com/lorefc/Transmission-line-distributed-parameters/assets/108432416/88c04d97-80f6-4ae3-95f5-20fe8db018d3)
 
 
 Cost tendency of all possible scenarios:
-> [!NOTE]
-> > This is the relationship between power, voltage and cost of a scenario.
+> [!NOTE] > This is the relationship between power, voltage and cost of a scenario.
 
 ![Cost tendency of all possible scenarios](https://github.com/lorefc/Transmission-line-distributed-parameters/assets/108432416/0978e400-a823-4da6-8b6d-27bdee4fecea)
 
