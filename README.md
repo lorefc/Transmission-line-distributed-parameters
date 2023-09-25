@@ -23,33 +23,36 @@ Thus, there are 2480 possible scenarios, of which only 606 are considered viable
   - Voltage regulation index
   - Conductor current capacity
 
+By analyzing the results we can find the most viable scenarios for a given transmission line. The data is extensive and can provide us with some interesting insights, such as:
 
 ## Data analysis
 
-By analyzing the results we can find the most viable scenarios for a given transmission line. The data is extensive and can provide us with some interesting insights, such as:
-
 The cost tendency of 500MW scenarios, according to voltage and number of conductors per phase. 
 
-The most viable scenario is in the blue zone.
+> [!NOTE]
+> The most viable scenario is in the blue zone.
 
 ![Cost tendency 500MW scenarios according to voltage and number of conductors per phase](https://github.com/lorefc/Transmission-line-distributed-parameters/assets/108432416/88c04d97-80f6-4ae3-95f5-20fe8db018d3)
 
 
-Cost tendency of all possible scenarios. This is the relationship between power, voltage and cost of a scenario.
+Cost tendency of all possible scenarios. 
+> [!NOTE]
+> This is the relationship between power, voltage and cost of a scenario.
 
 ![Cost tendency of all possible scenarios](https://github.com/lorefc/Transmission-line-distributed-parameters/assets/108432416/0978e400-a823-4da6-8b6d-27bdee4fecea)
 
 
 Cost profile of 500MW scenarios, composed by cable, tower and losses costs. 
 
-How much each cost component contributes to total cost in relation to the price of that scenario. Expensive scenarios have an ilogical combination of voltage and cable diameter, as per electrical theory.
+> [!NOTE]
+> How much each cost component contributes to total cost in relation to the price of that scenario. Expensive scenarios have an ilogical combination of voltage and cable diameter, as per electrical theory.
 
 ![Cost profile of 500MW scenarios composed by cable tower and losses costs](https://github.com/lorefc/Transmission-line-distributed-parameters/assets/108432416/af16a068-315f-4c69-9b52-36d09d646817)
 
 
 Cable ampacity versus current levels of a given scenario.
-
-All viable scenarios obviously have cables that can handle the current levels of the transmission line. This graph proves it.
+> [!NOTE]
+> All viable scenarios obviously have cables that can handle the current levels of the transmission line. This graph proves it.
 
 ![ampacity](https://github.com/lorefc/Transmission-line-distributed-parameters/assets/108432416/6469623a-52d5-42c0-a25b-c338d2d8d4a3)
 
