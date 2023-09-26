@@ -29,7 +29,7 @@ By analyzing the results we can find the most viable scenarios for a given trans
 
 #### Cost tendency of 500MW scenarios, according to voltage and number of conductors per phase:
 ![Tendência de custo de acordo com nível de tensão e número de condutores por fase](https://github.com/lorefc/Transmission-line-distributed-parameters/assets/108432416/bb2c281d-3d71-4fe8-8d50-bb2522a10ccf)
-> The most viable scenario is in the blue zone.
+> The most viable scenarios are in the blue zone.
 
 #### Cost tendency of all possible scenarios:
 ![Tendência aproximada do custo total conforme nível de tensão e potência](https://github.com/lorefc/Transmission-line-distributed-parameters/assets/108432416/79231fe0-0e98-4646-b92b-b560868cd160)
@@ -37,11 +37,12 @@ By analyzing the results we can find the most viable scenarios for a given trans
 
 #### Cost profile of 500MW scenarios, composed by cable, tower and losses costs:
 ![Perfil de custos composto (500MW)](https://github.com/lorefc/Transmission-line-distributed-parameters/assets/108432416/1fd8921c-d937-4ec0-bb54-d56def8e713f)
-> How much each cost component contributes to total cost in relation to the price of that scenario. Expensive scenarios have an ilogical combination of voltage and cable diameter, as per electrical theory.
+> How much each component contributes to total cost in relation to the price of that scenario.
+> Expensive scenarios have an "ilogical" combination of voltage and cable diameter, as per electrical theory.
 
 #### Cable ampacity versus current levels of a given scenario:
 ![amperagem](https://github.com/lorefc/Transmission-line-distributed-parameters/assets/108432416/ff98f07c-0aff-474f-b9a1-c6e1090675b6)
-> All viable scenarios obviously have cables that can handle the current levels of the transmission line. This graph proves it.
+> All viable scenarios use cables that can handle its current levels. This graph proves it.
 
 > [!NOTE]
 > Prices are arbitrary and given in an imaginary monetary unit. A value is assigned to energy losses and construction costs, which vary according to voltage levels and type/number of conductors.
