@@ -33,7 +33,7 @@ By analyzing the results we can find the most viable scenarios for a given trans
 
 #### Cost tendency of all possible scenarios:
 ![Tendência aproximada do custo total conforme nível de tensão e potência](https://github.com/lorefc/Transmission-line-distributed-parameters/assets/108432416/79231fe0-0e98-4646-b92b-b560868cd160)
-> This is the relationship between power, voltage and cost of a scenario
+> Relationship between power/voltage/cost of a scenario
 
 #### Cost profile of 500MW scenarios, composed by cable, tower and losses costs:
 ![Perfil de custos composto (500MW)](https://github.com/lorefc/Transmission-line-distributed-parameters/assets/108432416/1fd8921c-d937-4ec0-bb54-d56def8e713f)
