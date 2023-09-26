@@ -44,5 +44,10 @@ By analyzing the results we can find the most viable scenarios for a given trans
 ![amperagem](https://github.com/lorefc/Transmission-line-distributed-parameters/assets/108432416/ff98f07c-0aff-474f-b9a1-c6e1090675b6)
 > All viable scenarios use cables that can handle its current levels. This graph proves it.
 
+#### Sample of 500MW table ordered by price:
+![tabela500](https://github.com/lorefc/Transmission-line-distributed-parameters/assets/108432416/88cc5fdd-773e-48a6-afa8-d8fcc947cedb)
+> Each line represents a scenario. The best scenario is the cheapest among the viable ones.
+
+
 > [!NOTE]
 > Prices are arbitrary and given in an imaginary monetary unit. A value is assigned to energy losses and construction costs, which vary according to voltage levels and type/number of conductors.
