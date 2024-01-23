@@ -23,31 +23,34 @@ Thus, there are 2480 possible scenarios, of which only 606 are considered viable
   - Voltage regulation index
   - Conductor current capacity
 
-By analyzing the results we can find the most viable scenarios for a given transmission line. The data is extensive and can provide us with some interesting insights, such as:
+
 
 ## Data analysis
+By analyzing the results we can find the most viable scenarios for a given transmission line. The data is extensive and can provide us with some interesting insights, such as:
 
-#### Cost tendency of 500MW scenarios, according to voltage and number of conductors per phase:
-![Tendência de custo de acordo com nível de tensão e número de condutores por fase](https://github.com/lorefc/Transmission-line-distributed-parameters/assets/108432416/bb2c281d-3d71-4fe8-8d50-bb2522a10ccf)
-> The most viable scenarios are in the blue zone.
+<p align="center">
+  <img src="https://github.com/lorefc/Transmission-line-distributed-parameters/assets/108432416/bb2c281d-3d71-4fe8-8d50-bb2522a10ccf" alt="Tendência de custo de acordo com nível de tensão e número de condutores por fase">
+  <br>
+  <em>Cost tendency of 500MW scenarios, according to voltage and number of conductors per phase. The most viable scenarios are in the blue zone.</em>
+</p>
+<br><br>
+<br><br>
 
-#### Cost tendency of all possible scenarios:
-![Tendência aproximada do custo total conforme nível de tensão e potência](https://github.com/lorefc/Transmission-line-distributed-parameters/assets/108432416/79231fe0-0e98-4646-b92b-b560868cd160)
-> Relationship between power/voltage/cost of a scenario
+<p align="center">
+  <img src="https://github.com/lorefc/Transmission-line-distributed-parameters/assets/108432416/79231fe0-0e98-4646-b92b-b560868cd160" alt="Tendência aproximada do custo total conforme nível de tensão e potência">
+  <br>
+  <em>Cost tendency of all possible scenarios: relationship between power/voltage/cost of a scenario</em>
+</p>
+<br><br>
+<br><br>
 
-#### Cost profile of 500MW scenarios, composed by cable, tower and losses costs:
-![Perfil de custos composto (500MW)](https://github.com/lorefc/Transmission-line-distributed-parameters/assets/108432416/1fd8921c-d937-4ec0-bb54-d56def8e713f)
-> How much each component contributes to total cost in relation to the price of that scenario.
-> Expensive scenarios have an "ilogical" combination of voltage and cable diameter, as per electrical theory.
-
-#### Cable ampacity versus current levels of a given scenario:
-![amperagem](https://github.com/lorefc/Transmission-line-distributed-parameters/assets/108432416/ff98f07c-0aff-474f-b9a1-c6e1090675b6)
-> All viable scenarios use cables that can handle its current levels. This graph proves it.
-
-#### Sample of 500MW table ordered by price:
-![tabela500](https://github.com/lorefc/Transmission-line-distributed-parameters/assets/108432416/88cc5fdd-773e-48a6-afa8-d8fcc947cedb)
-> Each line represents a scenario. The best scenario is the cheapest among the viable ones.
-
+<p align="center">
+  <img src="https://github.com/lorefc/Transmission-line-distributed-parameters/assets/108432416/1fd8921c-d937-4ec0-bb54-d56def8e713f" alt="Perfil de custos composto (500MW)">
+  <br>
+  <em>Cost profile of 500MW scenarios, composed by cable, tower and losses costs: how much each component contributes to total cost in relation to the price of that scenario. Expensive scenarios have an "ilogical" combination of voltage and cable diameter, as per electrical theory.</em>
+</p>
+<br><br>
+<br><br>
 
 > [!NOTE]
 > Prices are arbitrary and given in an imaginary monetary unit. A value is assigned to energy losses and construction costs, which vary according to voltage levels and type/number of conductors.
